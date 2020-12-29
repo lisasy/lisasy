@@ -1,6 +1,6 @@
 # Hi, I'm Lisa 👋
 
-I’m currently leading product design at [Forem](https://www.forem.com/), where we're creating open source software to empower creators & communities. Before that, I designed trust, safety, and content moderation tools at Facebook; freelanced with large companies and startups; and worked at thoughtbot. 
+I’m currently leading product design at [Forem](https://www.forem.com/), where we're creating open source software to empower creators & communities. Before that, I designed trust, safety, and content moderation tools at Facebook; freelanced with large companies and startups; and worked at thoughtbot. In 2013, I participated in my university's first hackathon ever; I was the only woman and the only non-engineer/Comp Sci major. 
 
 Outside of my product design practice, I'm a visual artist who draws & writes comics, and enjoys painting and sketching from life. Paintings, zines, sketchbooks, prints — I love all of it. Amongst a bajillion little creative projects I have going on in my sketchpads and my brain, I'm working on a graphic memoir about growing up in an working-class immigrant Asian family in LA. Follow my [art world here on Instagram](https://www.instagram.com/lisasyart/).
 
